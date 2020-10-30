@@ -229,10 +229,10 @@ To connect on:
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/XysID">
-            <img src="https://avatars0.githubusercontent.com/u/71617416?v=4" width="100;" alt="XysID"/>
+        <a href="https://github.com/Xyszx">
+            <img src="https://avatars0.githubusercontent.com/u/71617416?v=4" width="100;" alt="Xyszx"/>
             <br />
-            <sub><b>Xys</b></sub>
+            <sub><b>ArsenDevX</b></sub>
         </a>
     </td>
     <td align="center">
